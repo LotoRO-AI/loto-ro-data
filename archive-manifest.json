@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "generatedAt": "2025-12-07T19:32:00Z",
+  "archives": {
+    "joker": {
+      "version": 1,
+      "csvUrl": "https://LotoRO-AI.github.io/loto-ro-data/Arhiva_Joker.csv",
+      "sha256": "31af752cd15655b282ee7370314f11b870f28a4efcdd8df219ef2c3132cd4577",
+      "size": 58368,
+      "updatedAt": "2025-12-07T19:32:00Z"
+    },
+    "loto649": {
+      "version": 1,
+      "csvUrl": "https://LotoRO-AI.github.io/loto-ro-data/Arhiva_Loto_6_din_49.csv",
+      "sha256": "f194daae6fe2a419c31d736ec172a802a4143b0a26ce2c712a98c721ba4aac14",
+      "size": 72704,
+      "updatedAt": "2025-12-07T19:32:00Z"
+    },
+    "loto540": {
+      "version": 1,
+      "csvUrl": "https://LotoRO-AI.github.io/loto-ro-data/Arhiva_Loto_5_din_40.csv",
+      "sha256": "a51576affa6ebb4b474e16e5ef48338db2bc7c34329303cae8ca1aadfe82dc14",
+      "size": 62464,
+      "updatedAt": "2025-12-07T19:32:00Z"
+    }
+  }
+}
