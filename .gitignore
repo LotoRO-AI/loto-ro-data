@@ -1,17 +1,38 @@
-# macOS
-.DS_Store
-._*
+# ============================================================================
+# .gitignore pentru loto-ro-data
+# Păstrează pe GitHub DOAR fișierele esențiale pentru aplicația Flutter
+# ============================================================================
 
-# Editor
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
+# Documentație (rămâne pe laptop, nu se urcă pe GitHub)
+README.md
+SETUP_GUIDE.md
+GHID_*.md
+QUICK_REFERENCE.md
+SISTEM_*.md
+*.txt
 
-# Backup files
+# Scripturi (rămân pe laptop pentru automatizare locală)
+*.sh
+
+# Arhive neutilizate de aplicație (rămân pe laptop pentru backup)
+Arhiva_Noroc.csv
+Arhiva_Noroc_Plus.csv
+Arhiva_Super_Noroc.csv
+Castiguri*.csv
+
+# Backup-uri
 *.bak
-*.tmp
+*.backup
 
-# Log files
-*.log
+# Fișiere temporare
+.DS_Store
+*.tmp
+*.swp
+
+# ============================================================================
+# DOAR ACESTE FIȘIERE VOR FI PE GITHUB:
+# - archive-manifest.json
+# - Arhiva_Joker.csv
+# - Arhiva_Loto_6_din_49.csv
+# - Arhiva_Loto_5_din_40.csv
+# ============================================================================
