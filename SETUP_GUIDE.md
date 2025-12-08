@@ -218,6 +218,8 @@ După configurare, verifică că totul funcționează:
 
 ### "403 Forbidden" când accesez URL-ul
 - Repository-ul trebuie să fie **Public**
+
+Dacă totuși nu vezi opțiunea, spune-mi ce vezi în pagină (screenshot sau copie de text) și te ajut pas-cu-pas.
 - GitHub Pages trebuie să fie **activat** (Settings → Pages)
 - Așteaptă 2-3 minute după push
 
