@@ -1,18 +1,18 @@
 {
-  "version": 1765723205,
-  "last_update": "2025-12-14T14:40:05Z",
+  "version": 1765723692,
+  "last_update": "2025-12-14T14:48:12Z",
   "database": {
     "filename": "loto.db",
     "url": "https://raw.githubusercontent.com/LotoRO-AI/loto-ro-data/main/loto.db",
     "size": 1421312,
-    "sha256": "3f6e17e2595c2d6222bf6df2ae9b00f0c4fff8d3aafc314ee7b0c73bd394a51e",
+    "sha256": "b8ef99935da911f696be8da0391a76fe6f29d0782d4bf97248c2fcc6b2d3cab3",
     "stats": {
-      "total_draws": 6832,
+      "total_draws": 6829,
       "total_prizes": 507,
-      "loto649": 2442,
-      "loto540": 2341,
-      "joker": 2049
+      "loto649": 2441,
+      "loto540": 2340,
+      "joker": 2048
     }
   },
-  "note": "Generat automat de publish_db.sh la 2025-12-14T14:40:05Z"
+  "note": "Generat automat de publish_db.sh la 2025-12-14T14:48:12Z"
 }
