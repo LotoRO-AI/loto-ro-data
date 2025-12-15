@@ -1,10 +1,10 @@
 {
   "version": 3,
-  "generatedAt": "2025-12-15T14:57:11.213550Z",
+  "generatedAt": "2025-12-15T17:22:39.887545Z",
   "archives": {
     "6din49": {
       "version": 20251211,
-      "csvUrl": "https://LotoRO-AI.github.io/loto-ro-data/Arhiva_Loto_6_din_49.csv",
+      "csvUrl": "https://lotor.ro/legal/data/Arhiva_Loto_6_din_49.csv",
       "sha256": "cd5f582b7f8d2a83e5db5d02a12beacd4d852e71d23eee2cc55eed03165b2022",
       "size": 72287,
       "updatedAt": "2025-12-11T00:00:00.000",
@@ -12,7 +12,7 @@
     },
     "5din40": {
       "version": 20251211,
-      "csvUrl": "https://LotoRO-AI.github.io/loto-ro-data/Arhiva_Loto_5_din_40.csv",
+      "csvUrl": "https://lotor.ro/legal/data/Arhiva_Loto_5_din_40.csv",
       "sha256": "ffe2332232be44b599a3b2bc3cfef31e3e16e4c9cbba415a7d6d1a8859a6cece",
       "size": 62033,
       "updatedAt": "2025-12-11T00:00:00.000",
@@ -20,7 +20,7 @@
     },
     "joker": {
       "version": 20251211,
-      "csvUrl": "https://LotoRO-AI.github.io/loto-ro-data/Arhiva_Joker.csv",
+      "csvUrl": "https://lotor.ro/legal/data/Arhiva_Joker.csv",
       "sha256": "444aa50ee1dd91283243f1a32c1172b3dbea17963cb31aacc334bdc3b3fb677e",
       "size": 57983,
       "updatedAt": "2025-12-11T00:00:00.000",
