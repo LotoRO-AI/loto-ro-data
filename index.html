@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LotoRO Data Repository</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 { color: #2c3e50; }
+        .file-list { background: #f8f9fa; padding: 20px; border-radius: 8px; }
+        .file-item { padding: 8px; margin: 5px 0; background: white; border-radius: 4px; }
+        a { color: #3498db; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .status { color: #27ae60; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>🎲 LotoRO Data Repository</h1>
+    <p class="status">✅ Status: ACTIV și FUNCȚIONAL</p>
+    
+    <h2>📊 Arhive Disponibile</h2>
+    <div class="file-list">
+        <h3>Jocuri Principale:</h3>
+        <div class="file-item">📄 <a href="Arhiva_Loto_6_din_49.csv">Arhiva_Loto_6_din_49.csv</a></div>
+        <div class="file-item">📄 <a href="Arhiva_Loto_5_din_40.csv">Arhiva_Loto_5_din_40.csv</a></div>
+        <div class="file-item">📄 <a href="Arhiva_Joker.csv">Arhiva_Joker.csv</a></div>
+        
+        <h3>Jocuri Noroc:</h3>
+        <div class="file-item">📄 <a href="Arhiva_Noroc_CLEAN.csv">Arhiva_Noroc_CLEAN.csv</a></div>
+        <div class="file-item">📄 <a href="Arhiva_Super_Noroc_CLEAN.csv">Arhiva_Super_Noroc_CLEAN.csv</a></div>
+        <div class="file-item">📄 <a href="Arhiva_Noroc_Plus_CLEAN.csv">Arhiva_Noroc_Plus_CLEAN.csv</a></div>
+        
+        <h3>Câștiguri Categoria I:</h3>
+        <div class="file-item">📄 <a href="Castiguri_6_din_49.csv">Castiguri_6_din_49.csv</a></div>
+        <div class="file-item">📄 <a href="Castiguri_5_din_40.csv">Castiguri_5_din_40.csv</a></div>
+        <div class="file-item">📄 <a href="Castiguri_Joker.csv">Castiguri_Joker.csv</a></div>
+        <div class="file-item">�� <a href="Castiguri_Noroc.csv">Castiguri_Noroc.csv</a></div>
+        <div class="file-item">📄 <a href="Castiguri_Super_Noroc.csv">Castiguri_Super_Noroc.csv</a></div>
+        <div class="file-item">�� <a href="Castiguri_Noroc_Plus.csv">Castiguri_Noroc_Plus.csv</a></div>
+        
+        <h3>Manifest:</h3>
+        <div class="file-item">📄 <a href="archive-manifest.json">archive-manifest.json</a></div>
+    </div>
+    
+    <h2>🔗 Link-uri</h2>
+    <p>
+        <strong>Repository GitHub:</strong> <a href="https://github.com/LotoRO-AI/loto-ro-data" target="_blank">LotoRO-AI/loto-ro-data</a><br>
+        <strong>Aplicație LotoRO:</strong> <a href="https://github.com/LotoRO-AI/loto_ro" target="_blank">LotoRO-AI/loto_ro</a>
+    </p>
+    
+    <p style="color: #7f8c8d; font-size: 0.9em; margin-top: 40px;">
+        Acest repository conține arhivele de date pentru aplicația LotoRO.<br>
+        Ultima actualizare: <span id="date"></span>
+    </p>
+    
+    <script>
+        document.getElementById('date').textContent = new Date().toLocaleString('ro-RO');
+    </script>
+</body>
+</html>
