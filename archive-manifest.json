@@ -1,30 +1,30 @@
 {
   "version": 3,
-  "generatedAt": "2025-12-15T14:56:55.770718Z",
+  "generatedAt": "2025-12-15T14:57:11.213550Z",
   "archives": {
     "6din49": {
-      "version": 20251216,
+      "version": 20251211,
       "csvUrl": "https://LotoRO-AI.github.io/loto-ro-data/Arhiva_Loto_6_din_49.csv",
-      "sha256": "754cfa96da18190c54cca377eb3fd9710164a384919f26f9a6dc4b83a099931c",
-      "size": 72340,
-      "updatedAt": "2025-12-16T00:00:00.000",
-      "draws": 2506
+      "sha256": "cd5f582b7f8d2a83e5db5d02a12beacd4d852e71d23eee2cc55eed03165b2022",
+      "size": 72287,
+      "updatedAt": "2025-12-11T00:00:00.000",
+      "draws": 2504
     },
     "5din40": {
-      "version": 20251216,
+      "version": 20251211,
       "csvUrl": "https://LotoRO-AI.github.io/loto-ro-data/Arhiva_Loto_5_din_40.csv",
-      "sha256": "68babe22f0ff0c252f605f3d33c1ab390008e90bb43807b063f59cb62b01351d",
-      "size": 62082,
-      "updatedAt": "2025-12-16T00:00:00.000",
-      "draws": 2398
+      "sha256": "ffe2332232be44b599a3b2bc3cfef31e3e16e4c9cbba415a7d6d1a8859a6cece",
+      "size": 62033,
+      "updatedAt": "2025-12-11T00:00:00.000",
+      "draws": 2396
     },
     "joker": {
-      "version": 20251216,
+      "version": 20251211,
       "csvUrl": "https://LotoRO-AI.github.io/loto-ro-data/Arhiva_Joker.csv",
-      "sha256": "122f0221d0002765f58230e16bc5004ac34ce21f7faadbf390e8c70e33ed310c",
-      "size": 58012,
-      "updatedAt": "2025-12-16T00:00:00.000",
-      "draws": 2108
+      "sha256": "444aa50ee1dd91283243f1a32c1172b3dbea17963cb31aacc334bdc3b3fb677e",
+      "size": 57983,
+      "updatedAt": "2025-12-11T00:00:00.000",
+      "draws": 2107
     }
   }
 }
