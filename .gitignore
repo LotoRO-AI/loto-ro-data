@@ -14,11 +14,10 @@ SISTEM_*.md
 # Scripturi (rămân pe laptop pentru automatizare locală)
 *.sh
 
-# Arhive neutilizate de aplicație (rămân pe laptop pentru backup)
+# Arhive VECHI neutilizate (fără _CLEAN)
 Arhiva_Noroc.csv
 Arhiva_Noroc_Plus.csv
 Arhiva_Super_Noroc.csv
-Castiguri*.csv
 
 # Backup-uri
 *.bak
@@ -30,9 +29,13 @@ Castiguri*.csv
 *.swp
 
 # ============================================================================
-# DOAR ACESTE FIȘIERE VOR FI PE GITHUB:
+# FIȘIERE URCATE PE GITHUB (necesare pentru aplicație):
 # - archive-manifest.json
 # - Arhiva_Joker.csv
 # - Arhiva_Loto_6_din_49.csv
 # - Arhiva_Loto_5_din_40.csv
+# - Arhiva_Noroc_CLEAN.csv
+# - Arhiva_Noroc_Plus_CLEAN.csv
+# - Arhiva_Super_Noroc_CLEAN.csv
+# - Castiguri_*.csv (TOATE)
 # ============================================================================
