@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2025-12-15T14:41:08.829614Z",
+  "generatedAt": "2025-12-15T14:41:42.966986Z",
   "archives": {
     "6din49": {
       "version": 20251214,
@@ -19,12 +19,12 @@
       "draws": 2397
     },
     "joker": {
-      "version": 20251216,
+      "version": 20251211,
       "csvUrl": "https://LotoRO-AI.github.io/loto-ro-data/Arhiva_Joker.csv",
-      "sha256": "f7a9fc7d7c6570bde3e6d3252267d3a132ad866882eca9d9b2cf2c7f2f501906",
-      "size": 58041,
-      "updatedAt": "2025-12-16T00:00:00.000",
-      "draws": 2109
+      "sha256": "444aa50ee1dd91283243f1a32c1172b3dbea17963cb31aacc334bdc3b3fb677e",
+      "size": 57983,
+      "updatedAt": "2025-12-11T00:00:00.000",
+      "draws": 2107
     }
   }
 }
